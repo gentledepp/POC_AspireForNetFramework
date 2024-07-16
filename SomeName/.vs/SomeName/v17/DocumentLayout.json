@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0118882-987A-47FE-9F3F-DFBAB4A0BD15}|SomeName.AppHost\\SomeName.AppHost.csproj|c:\\code_play\\poc_aspirefornetframework\\somename\\somename.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0118882-987A-47FE-9F3F-DFBAB4A0BD15}|SomeName.AppHost\\SomeName.AppHost.csproj|solutionrelative:somename.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|c:\\code_play\\poc_aspirefornetframework\\somename\\aspnetmvcapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|solutionrelative:aspnetmvcapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{496DF0A2-C008-4429-938F-BECA8423855B}|AspnetCoreApp\\AspnetCoreApp.csproj|c:\\code_play\\poc_aspirefornetframework\\somename\\aspnetcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496DF0A2-C008-4429-938F-BECA8423855B}|AspnetCoreApp\\AspnetCoreApp.csproj|solutionrelative:aspnetcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|c:\\code_play\\poc_aspirefornetframework\\somename\\aspnetmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|solutionrelative:aspnetmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,28 +106,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspnetCoreApp\\Program.cs",
-              "RelativeDocumentMoniker": "AspnetCoreApp\\Program.cs",
-              "ToolTip": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspnetCoreApp\\Program.cs",
-              "RelativeToolTip": "AspnetCoreApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspNetMvcApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AspNetMvcApp\\Global.asax.cs",
+              "ToolTip": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspNetMvcApp\\Global.asax.cs",
+              "RelativeToolTip": "AspNetMvcApp\\Global.asax.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:35:18.705Z",
+              "WhenOpened": "2024-07-16T11:49:26.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\SomeName.AppHost\\Program.cs",
-              "RelativeDocumentMoniker": "SomeName.AppHost\\Program.cs",
-              "ToolTip": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\SomeName.AppHost\\Program.cs*",
-              "RelativeToolTip": "SomeName.AppHost\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:35:12.562Z",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspNetMvcApp\\Web.config",
+              "RelativeDocumentMoniker": "AspNetMvcApp\\Web.config",
+              "ToolTip": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspNetMvcApp\\Web.config",
+              "RelativeToolTip": "AspNetMvcApp\\Web.config",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-16T11:42:03.294Z",
               "EditorCaption": ""
             }
           ]
