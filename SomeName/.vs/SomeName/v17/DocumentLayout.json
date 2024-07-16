@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|solutionrelative:aspnetmvcapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|c:\\code_play\\poc_aspirefornetframework\\somename\\aspnetmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|C:\\code_play\\POC_AspireForNetFramework\\SomeName\\aspnetmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1003D242-9D47-4BDA-8831-D9EF9AC1C3EB}|AspNetMvcApp\\AspNetMvcApp.csproj|solutionrelative:aspnetmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "AspNetMvcApp\\Global.asax.cs",
               "ToolTip": "C:\\code_play\\POC_AspireForNetFramework\\SomeName\\AspNetMvcApp\\Global.asax.cs",
               "RelativeToolTip": "AspNetMvcApp\\Global.asax.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAwwBcAAAAMAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T11:49:26.355Z",
               "EditorCaption": ""

@@ -30,7 +30,7 @@ namespace AspNetMvcApp
         }
 
         
-        protected void Application_End(object sender, EventArgs e)
+        protected void Application_End()
         {
             _tracerProvider?.Dispose();
             _meterProvider?.Dispose();
@@ -46,7 +46,13 @@ namespace AspNetMvcApp
 
             _tracerProvider = tracerBuilder
                 .AddSqlClientInstrumentation()
-                .AddAspNetInstrumentation()
+                .AddAspNetInstrumentation(
+                    (options) => options.Filter =
+                        (httpContext) =>
+                        {
+                            // collect telemetry about all requests
+                            return true;
+                        })
                 .AddSource(serverName)
                 .SetResourceBuilder(
                     ResourceBuilder.CreateDefault()
@@ -59,6 +65,7 @@ namespace AspNetMvcApp
                 meterBuilder.AddOtlpExporter();
 
             _meterProvider = meterBuilder
+                .AddAspNetInstrumentation()
                 .AddRuntimeInstrumentation()
                 .Build();
         }
